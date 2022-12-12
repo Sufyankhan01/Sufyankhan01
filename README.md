@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sufyankhan01
 - 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate  
+
 
 <!---
 Sufyankhan01/Sufyankhan01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
