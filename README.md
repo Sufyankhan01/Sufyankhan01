@@ -2,7 +2,9 @@
 - 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate  
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
  
 <!---
 Sufyankhan01/Sufyankhan01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
